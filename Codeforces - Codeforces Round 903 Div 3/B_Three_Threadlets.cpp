@@ -1,3 +1,5 @@
+//  B. Three Threadlets
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
